@@ -1,0 +1,5 @@
+cupy
+numpy
+matplotlib
+tensorflow
+sklearn
